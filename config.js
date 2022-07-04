@@ -27,8 +27,8 @@ module.exports = {
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     M_REPLY: process.env.M_REPLY === undefined ? 'Hey!' : process.env.M_REPLY,
     M_REPLY_VAR: process.env.M_REPLY_VAR === undefined ? 'true' : process.env.M_REPLY_VAR,
-    AFNN: process.env.TAG_REPLY === undefined ? '919074309534@s.whatsapp.net' : process.env.TAG_REPLY,
-    NBSK: process.env.ALL_NUMBER === undefined ? '916282344739' : process.env.ALL_NUMBER,
+    AFNN: process.env.TAG_REPLY === undefined ? '79917978822@s.whatsapp.net' : process.env.TAG_REPLY,
+    NBSK: process.env.ALL_NUMBER === undefined ? '79917978822' : process.env.ALL_NUMBER,
     AUDIO_DATA: process.env.AUDIO_DATA === undefined ? 'sᴏᴜʀᴀᴠᴋʟ¹¹;ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;https://www.linkpicture.com/q/rgnk.jpg' : process.env.AUDIO_DATA,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
@@ -90,8 +90,8 @@ module.exports = {
     DEBUG: DEBUG,
     COFFEEHOUSE_API_KEY: process.env.COFFEEHOUSE_API_KEY === undefined ? false : process.env.COFFEEHOUSE_API_KEY,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT2: "916282344739",
-    SUPPORT3: "919074309534",
+    SUPPORT2: "79917978822",
+    SUPPORT3: "79917978822",
     ST:"https://gist.github.com/souravkl11/",
     RT:"4aa49c7848ba4e9224852576223e5de1/raw"
 };
